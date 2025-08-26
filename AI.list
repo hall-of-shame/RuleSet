@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,download.todesktop.com
 DOMAIN-SUFFIX,dify.ai
 # GitHub
 DOMAIN,api.github.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,github.dev
 # Google
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 DOMAIN-KEYWORD,colab
