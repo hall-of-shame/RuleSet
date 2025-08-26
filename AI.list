@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,usefathom.com
 # Cloudflare
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN,gateway.ai.cloudflare.com
+# Code
+DOMAIN-SUFFIX,trafficmanager.net
 # Coze
 DOMAIN-SUFFIX,coze.com
 # Cursor
