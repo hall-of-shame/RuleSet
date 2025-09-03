@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,copilot.microsoft.com
 # Google
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 DOMAIN-KEYWORD,colab
