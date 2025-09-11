@@ -31,7 +31,7 @@
 - 官方默认版模块(支持 App 内使用编辑参数): [`https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule`](https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule)
 - Surge / More / Module / Install from URL...
 - 订阅成功后，从模块中选择启用
-- 解密 / 升成新证书 / 将证书安装到系统 / 启用 HTTPS 解密 (Decrypt / Generate New Certificate + Install to System + MitM Over HTTP/2 / Enable HTTPS Decryption) (macOS 证书管理通过 KeyChain Access)
+- 解密 / 生成新证书 / 将证书安装到系统 / 启用 HTTPS 解密 (Decrypt / Generate New Certificate + Install to System + MitM Over HTTP/2 / Enable HTTPS Decryption) (macOS 证书管理通过 KeyChain Access)
 - 重启 Surge，并启用系统代理
 
 ### 使用 Sub-Store
@@ -41,6 +41,7 @@
 - 点击列表项“空白区域"打开「预览/拷贝订阅」面板，复制「Surge(macOS)」订阅链接，格式为 `https://sub.store/download/<NAME>?target=SurgeMac`
 - 全局替换 [X.conf](./X.conf) 配置文件中“订阅地址"字符为 Sub-Store 创建的订阅链接
 - Surge 导入此配置文件、勾选，完成配置
+- 重启 Surge (如果不能用，再走一次“解密”？)
 
 ### 排错指南
 
